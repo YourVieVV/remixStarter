@@ -1,0 +1,11 @@
+$primary-color: black;
+$secondary-color: white;
+
+body {
+  background-color: $primary-color;
+}
+
+.exampleH1 {
+  color: $secondary-color;
+  font-size: 24px;
+}
